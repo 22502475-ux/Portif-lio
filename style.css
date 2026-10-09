@@ -1,0 +1,265 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+
+* {
+    margin: 0;
+}
+
+html {
+    background-color: #100A21;
+}
+
+#txt {
+    color: white;
+    -webkit-text-stroke-width: 0.9px;
+    -webkit-text-stroke-color: #8B24C7;
+    text-align: center;
+    font-family: "JetBrains Mono", monospace;
+
+}
+
+#secF {
+    display: grid;
+    justify-content: end;
+}
+
+
+#SobremimA hr {
+    width: 900px;
+}
+
+#SobremimA {
+
+    border: 3px solid #8B24C7;
+    display: flex;
+    flex-direction: column;
+
+    grid-template-rows: auto;
+    border-radius: 20px;
+    background-color: white;
+    width: 50%;
+    height: 400px;
+}
+
+
+
+#SobremimB {
+
+    border: 3px solid #8B24C7;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    grid-template-rows: auto;
+    border-radius: 20px;
+    background-color: white;
+    width: 50%;
+    height: 400px;
+}
+
+#SobremimB hr {
+    width: 900px;
+}
+
+#secS {
+    color: white;
+    justify-items: center;
+    padding-top: 100px;
+}
+
+
+
+#txt2 {
+    color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #8B24C7;
+    text-align: center;
+    padding: 20px;
+}
+
+#txtS {
+    padding-left: 30px;
+    width: 650px;
+    color: white;
+    -webkit-text-stroke-width: 0.9px;
+    -webkit-text-stroke-color: #8B24C7;
+    text-align: center;
+    padding-bottom: 10px;
+    font-family: "JetBrains Mono", monospace;
+}
+
+#aba-rolamento {
+    left: 150px;
+    border-radius: 20px;
+    position: fixed;
+    width: 50px;
+    height: 240px;
+    border: 3px solid #8B24C7;
+    background-color: white;
+    top: 260px;
+}
+
+#aba-rolamento2 {
+    width: 50px;
+    height: 110px;
+    left: 150px;
+    position: fixed;
+    border: 3px solid #8B24C7;
+    background-color: white;
+    border-radius: 50px;
+    top: 560px;
+
+}
+
+#eu {
+    border: 3px solid #8B24C7;
+    background-color: white;
+    border-radius: 20px;
+    position: relative;
+    left: 750px;
+    display: flex;
+    width: 160px;
+    height: 170px;
+    object-fit: cover;
+    bottom: 230px;
+}
+
+#imgR {
+    position: relative;
+    top: 20px;
+    left: 6px;
+    width: 38px;
+    height: 35px;
+}
+
+#barra {
+    background-color: #4F3863;
+    width: 900px;
+    height: 20px;
+    border-radius: 20px;
+}
+
+#barra2 {
+    border-radius: 20px;
+    background-color: #C195E8;
+    width: 840px;
+    height: 10px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+#barra3 {
+    background-color: #4F3863;
+    width: 900px;
+    height: 20px;
+    border-radius: 20px;
+    margin-top: 18px;
+}
+
+#barra4 {
+    border-radius: 20px;
+    background-color: #C195E8;
+    width: 750px;
+    height: 10px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+#barra5 {
+    background-color: #4F3863;
+    width: 900px;
+    height: 20px;
+    border-radius: 20px;
+    margin-top: 18px;
+}
+
+#barra6 {
+    border-radius: 20px;
+    background-color: #C195E8;
+    width: 840px;
+    height: 10px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+#barra7 {
+    background-color: #4F3863;
+    width: 900px;
+    height: 20px;
+    border-radius: 20px;
+    margin-top: 18px;
+}
+
+#barra8 {
+    border-radius: 20px;
+    background-color: #C195E8;
+    width: 440px;
+    height: 10px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+#porcentagem {
+    width: 900px;
+    height: 20px;
+    text-align: end;
+    margin-top: 10px;
+}
+
+#txtP {
+    color: white;
+    -webkit-text-stroke-width: 0.9px;
+    -webkit-text-stroke-color: #8B24C7;
+    font-family: "JetBrains Mono", monospace;
+}
+
+#txtHTML {
+
+    color: white;
+    -webkit-text-stroke-width: 0.9px;
+    -webkit-text-stroke-color: #8B24C7;
+    text-align: center;
+    font-family: "JetBrains Mono", monospace;
+}
+
+#SoftSkill {
+    border: 3px solid #8B24C7;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    grid-template-rows: auto;
+    border-radius: 20px;
+    background-color: white;
+    width: 30%;
+    height: 250px;
+}
+
+#secSf {
+    position: relative;
+    bottom: 50px;
+    color: white;
+    justify-items: center;
+}
+
+#txtSf {
+    padding-left: 30px;
+    width: 650px;
+    color: white;
+    -webkit-text-stroke-width: 0.9px;
+    -webkit-text-stroke-color: #8B24C7;
+    text-align: center;
+    font-family: "JetBrains Mono", monospace;
+    padding-top: 20px;
+}
+#divC{
+    display: flex;
+}
+#cursos{
+    color: white;
+    -webkit-text-stroke-width: 0.9px;
+    -webkit-text-stroke-color: #8B24C7;
+    font-family: "JetBrains Mono", monospace;
+    margin-top: 50px;
+}
+#secCu{
+    padding-left: 300px;
+}
